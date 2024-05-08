@@ -4,6 +4,7 @@ pico_CTF_writeup_2024_by_mravetchinfo
 
 
 
+
 **Challenge Description:**
 
 In this challenge, participants are provided with a webpage hosted at [http://titan.picoctf.net:55173/](http://titan.picoctf.net:55173/) and are tasked with finding the flag. However, instead of manually searching for the flag within the webpage, the challenge suggests creating a bookmarklet to automate the process.

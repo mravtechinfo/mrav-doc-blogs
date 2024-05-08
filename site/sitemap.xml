@@ -5,4 +5,14 @@
          <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://mydomain.org/mysite/PicoCTF_2024/</loc>
+         <lastmod>2024-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Test2/</loc>
+         <lastmod>2024-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>

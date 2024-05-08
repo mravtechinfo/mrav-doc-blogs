@@ -1,6 +1,6 @@
 pico_CTF_writeup_2024_by_mravetchinfo
 
-**Challenge Name: Bookmarklet**
+**Challenge Name:** Bookmarklet
 
 
 
@@ -264,6 +264,7 @@ My team has been working very hard on new features for our flag printing program
 You can download the challenge files here:
 challenge.zip
 
+```
  ~/p/g/c/d/.git  ls                                                                                                                                                                                                 Sun Mar 24 02:29:48 2024
 COMMIT_EDITMSG  HEAD  branches/  config  description  hooks/  index  info/  logs/  objects/  refs/
  ~/p/g/c/d/.git  cd ..                                                                                                                                                                                              Sun Mar 24 02:29:49 2024
@@ -317,14 +318,14 @@ print("Printing the flag...")
 
 print("w0rk_6c06cec1}")
  ~/p/g/c/drop-in   feature/part-3    
- 
+```
  
  
  picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_6c06cec1}
  
 
 ---
---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 binhexa
@@ -639,7 +640,7 @@ Using the password 1ad5be0d. Accept the fingerprint with yes, and ls once connec
 
 picoCTF{g00d_gu355_3af33d18}
 
-
+```
  !  ~/p/g/h/c/drop-in  ssh -p 63335 ctf-player@atlas.picoctf.net                                             Mon Mar 25 12:46:48 2024
 The authenticity of host '[atlas.picoctf.net]:63335 ([18.217.83.136]:63335)' can't be established.
 ED25519 key fingerprint is SHA256:M8hXanE8l/Yzfs8iuxNsuFL4vCzCKEIlM/3hpO13tfQ.
@@ -671,9 +672,9 @@ Enter your guess: 572
 Congratulations! You guessed the correct number: 572
 Here's your flag: picoCTF{g00d_gu355_3af33d18}
 Connection to atlas.picoctf.net closed.
+```
 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 endianness
  |  |  | 200 points
@@ -683,7 +684,7 @@ AUTHOR: NANA AMA ATOMBO-SACKEY
 Description
 Know of little and big endian?
 nc titan.picoctf.net 65485. Source
-
+```
 Welcome to the Endian CTF!
 You need to find both the little endian and big endian representations of a word.
 If you get both correct, you will receive the flag.
@@ -700,13 +701,13 @@ Enter the Big Endian representation: 7472766373
 Correct Big Endian representation!
 Congratulations! You found both endian representations correctly!
 Your Flag is: picoCTF{3ndi4n_sw4p_su33ess_817b7cfe}
-
+```
 
 understand and input the number using googling 
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 dont-you-love-banners
  |  |  | 300 points
@@ -717,7 +718,7 @@ Description
 Can you abuse the banner?
 Additional details will be available after launching your challenge instance.
 
-
+---
 
 dont-you-love-banners
  |  |  | 300 points

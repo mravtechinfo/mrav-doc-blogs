@@ -5,7 +5,12 @@ theme:
   features:
     - header.autohide
     - announce.dismiss
-     - navigation.footer
+    - navigation.footer
+    - blog
+    - social
+    - navigation.instant
+    - navigation.instant
+    - navigation.instant.prefetch
      
   palette: 
 

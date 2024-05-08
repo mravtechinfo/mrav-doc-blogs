@@ -1,4 +1,4 @@
-## pico_CTF_writeup_2024_by_mravetchinfo
+pico_CTF_writeup_2024_by_mravetchinfo
 
 **Challenge Name: Bookmarklet**
 
